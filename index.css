@@ -801,6 +801,22 @@ footer span a:hover{
         width: 100%;
         margin-bottom: 35px;
     }
+
+	.skill-icon {
+    height: 10px;
+    width: 15px;
+    font-size:30px;
+    
+  }
+ 
+  
+  .skill {
+    /* border: 2px solid transparent; */
+    border-radius: 0.5rem;
+    box-shadow: 0 0 2px 2px rgba(1, 1, 1, 0.1);
+    padding: 2rem;
+    text-align: center;
+  }
 }
 
 @media (max-width: 690px) {
