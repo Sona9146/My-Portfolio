@@ -390,6 +390,9 @@ section .title::after{
 .teams .title::after{
     content: "my work";
 }
+.teams a{
+	color:#fff;
+}
 .teams .carousel .card{
     background: #222;
     border-radius: 6px;
